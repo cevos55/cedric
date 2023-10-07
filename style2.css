@@ -1,0 +1,83 @@
+body {
+    width: 100%;
+    height: 100%;
+   margin: 0;
+    background:linear-gradient(90deg,blue,rgb(132, 206, 248));
+    font-size: 16.4px;
+  }
+  h1 {margin-left:42.8em;position: absolute;
+    margin-top: 2.8em;
+font-family:   sans-serif;
+font-size: 20px;}
+  
+  form {
+    
+    height: 35em;
+    max-width: 500px;
+    min-width:69% ;
+    background-color: rgb(255, 255, 255);
+    padding: 0.4em;
+    margin: 10px auto;
+    
+  }
+  
+  textarea { border-radius: 20px;
+    
+    margin: 10px;
+    padding: 15px;
+    width: 74.9%;
+    min-height: 1em;
+    height: 8em;
+    border: none;
+    color: rgb(7, 3, 3);
+    background-color: rgb(230, 229, 229);
+  }
+  
+ 
+  
+  input
+  { border-radius: 50px;
+    
+    margin: 5px;
+    padding: 10px ;
+    width: 80%;
+    min-height: 1em;
+    background-color: rgb(230, 229, 229);
+    border: none;
+    color: rgb(0, 0, 0);
+
+    
+  
+  }
+  fieldset {padding: 2px;
+    margin-top: 6.4em;
+margin-left: 35em;
+width: 30%;
+border: none;}
+  
+
+
+  
+  input[type="submit"] {
+    display: block;
+    width: 8em;
+   color:#ffff;
+    margin: 3px auto;
+    height: 2.6em;
+    font-size: 1.1rem;
+    background-color: rgb(4, 158, 11);
+   cursor: pointer;
+    min-width: 120px;
+    border-radius: 50px;
+    
+  }
+  
+  input[type="submit"]:hover {opacity: 0.95;
+    color: rgb(0, 255, 42);}
+
+    img {position: absolute;
+    height: 50%;
+width: 25%;
+top: 140px;
+left: 300.5px;
+}
